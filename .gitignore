@@ -1,0 +1,11 @@
+*/.gradle/
+*/.exercism/*
+*/bin/
+*/src/test/
+*/.classpath
+*/.project
+*/TUTORIAL.md
+*/README.md
+*/.settings
+*/build.gradle
+.vscode/
